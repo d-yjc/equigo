@@ -8,8 +8,8 @@ function Newsfeed() {
             <div className = "newsfeed__container">
                 <div className = "newsfeed__chartSection">
                     <div className = "newsfeed__portfolio">
-                        <h1>$115,483.43</h1>
-                        <p>+$44.50 (+0.04%) Today</p>
+                        <h1></h1>
+                        <p></p>
                     </div>
                     <div className = "newsfeed__chart">
                         <StockAlpha />
